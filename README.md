@@ -1,2 +1,3 @@
-# machine-learning-tutorials
-This repo contains machine learning tutorials for beginners
+# Machine Learning Notebooks
+
+This repo contains machine learning notebooks for beginners
