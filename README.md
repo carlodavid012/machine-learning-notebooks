@@ -1,3 +1,3 @@
 # Machine Learning Notebooks
 
-This repo contains machine learning notebooks for beginners
+This repo contains machine learning notebooks
